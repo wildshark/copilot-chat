@@ -10,7 +10,7 @@ To run this application, you'll need to follow these steps:
 
 2. Clone the repository: Clone this repository to your local environment using the following command:
    ```
-   git clone [<repository-url>](https://github.com/wildshark/copilot-chat.git)
+   git clone https://github.com/wildshark/copilot-chat.git
    ```
 
 3. Set up the server: You'll need PHP server hosting capabilities to run this application. You can use tools like XAMPP, WAMP, or any other PHP server of your choice.
